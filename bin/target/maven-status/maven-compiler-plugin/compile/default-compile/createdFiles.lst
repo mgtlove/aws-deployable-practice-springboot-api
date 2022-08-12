@@ -1,0 +1,5 @@
+com\cognixia\jump\RestMySqlApplication.class
+com\cognixia\jump\model\Student.class
+com\cognixia\jump\config\CorsConfiguration.class
+com\cognixia\jump\repository\StudentRepository.class
+com\cognixia\jump\controller\StudentController.class
